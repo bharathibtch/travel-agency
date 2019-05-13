@@ -1,0 +1,8 @@
+.full-screen{
+    width: 100%;
+    height: 100vh;    
+}
+.table > tbody > tr > td ,
+.table > thead > tr > th{
+    vertical-align: middle;
+}
